@@ -1,12 +1,24 @@
-# pxb-zhoujintao
+<div align="center">
 
-> A Zhou Jintao-inspired cycle analysis skill for China-specific macro positioning.
+# 周金涛.skill
+
+> *"Position first, drivers second; sequence first, conclusions second."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude%20Code-Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![skills.sh-Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-**Other Languages:** [简体中文](README.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
+<br>
+
+**A Zhou Jintao-inspired cycle analysis skill for China-specific macro positioning.**
+
+<br>
+
+**Other Languages:**
+
+[简体中文](README.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
+
+</div>
 
 ---
 
@@ -88,23 +100,6 @@ zhoujintao-skill/
 └── references/
     └── research/
 ```
-
----
-
-## Research Scope
-
-The public repository only includes:
-
-- `SKILL.md`
-- multilingual READMEs
-- `LICENSE`
-- `references/research/`
-
-It does not include:
-
-- `references/sources/`
-- `evals/`
-- workspace or internal helper directories
 
 ---
 

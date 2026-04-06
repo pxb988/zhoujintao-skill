@@ -1,12 +1,24 @@
-# pxb-zhoujintao
+<div align="center">
 
-> 中国語文脈での景気循環の位置判断に向けた、周金涛視点の skill。
+# 周金涛.skill
+
+> *「まず位置を定め、次にドライバーを見る。まず順序を見て、その後に結論を出す。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude%20Code-Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![skills.sh-Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-**Other Languages:** [简体中文](README.md) · [English](README_EN.md) · [한국어](README_KO.md) · [Español](README_ES.md)
+<br>
+
+**中国語文脈での景気循環の位置判断に向けた、周金涛視点の skill。**
+
+<br>
+
+**Other Languages:**
+
+[简体中文](README.md) · [English](README_EN.md) · [한국어](README_KO.md) · [Español](README_ES.md)
+
+</div>
 
 ---
 
@@ -88,23 +100,6 @@ zhoujintao-skill/
 └── references/
     └── research/
 ```
-
----
-
-## 研究範囲
-
-公開リポジトリに含まれるのは次のみです。
-
-- `SKILL.md`
-- 多言語 README
-- `LICENSE`
-- `references/research/`
-
-含まれないもの：
-
-- `references/sources/`
-- `evals/`
-- workspace や内部補助ディレクトリ
 
 ---
 

@@ -1,12 +1,24 @@
-# pxb-zhoujintao
+<div align="center">
 
-> 一个面向中国语境的周金涛周期分析视角 skill。
+# 周金涛.skill
+
+> *「先做定位，再谈动力；先看次序，再谈结论。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude%20Code-Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![skills.sh-Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-**Other Languages:** [English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
+<br>
+
+**一个面向中国语境的周金涛周期分析视角 skill。**
+
+<br>
+
+**Other Languages / 其他语言：**
+
+[English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
+
+</div>
 
 ---
 
@@ -90,23 +102,6 @@ zhoujintao-skill/
 └── references/
     └── research/
 ```
-
----
-
-## 研究说明
-
-公开仓库仅包含：
-
-- skill 本体 `SKILL.md`
-- 中英日韩西五份 README
-- `LICENSE`
-- `references/research/` 研究沉淀
-
-不公开的内容包括：
-
-- `references/sources/`
-- `evals/`
-- workspace 与内部辅助目录
 
 ---
 

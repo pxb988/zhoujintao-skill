@@ -1,12 +1,24 @@
-# pxb-zhoujintao
+<div align="center">
 
-> Un skill de perspectiva de Zhou Jintao para ubicar ciclos en el contexto de China.
+# 周金涛.skill
+
+> *"Primero ubicar la posición; después, analizar los impulsores. Primero ver la secuencia; después, sacar conclusiones."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude%20Code-Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![skills.sh-Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-**Other Languages:** [简体中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md)
+<br>
+
+**Un skill de perspectiva de Zhou Jintao para ubicar ciclos en el contexto de China.**
+
+<br>
+
+**Other Languages:**
+
+[简体中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md)
+
+</div>
 
 ---
 
@@ -88,23 +100,6 @@ zhoujintao-skill/
 └── references/
     └── research/
 ```
-
----
-
-## Alcance de la investigación
-
-El repositorio público solo incluye:
-
-- `SKILL.md`
-- READMEs multilingües
-- `LICENSE`
-- `references/research/`
-
-No incluye:
-
-- `references/sources/`
-- `evals/`
-- workspace ni directorios auxiliares internos
 
 ---
 

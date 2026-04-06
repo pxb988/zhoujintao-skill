@@ -1,12 +1,24 @@
-# pxb-zhoujintao
+<div align="center">
 
-> 중국 맥락에서의 경기 순환 위치 판단을 위한 주금도 관점 skill.
+# 周金涛.skill
+
+> *"먼저 위치를 보고, 다음에 동인을 본다. 먼저 순서를 보고, 그다음 결론을 내린다."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude%20Code-Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![skills.sh-Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
-**Other Languages:** [简体中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md) · [Español](README_ES.md)
+<br>
+
+**중국 맥락에서의 경기 순환 위치 판단을 위한 주금도 관점 skill.**
+
+<br>
+
+**Other Languages:**
+
+[简体中文](README.md) · [English](README_EN.md) · [日本語](README_JA.md) · [Español](README_ES.md)
+
+</div>
 
 ---
 
@@ -88,23 +100,6 @@ zhoujintao-skill/
 └── references/
     └── research/
 ```
-
----
-
-## 연구 범위
-
-공개 저장소에는 다음만 포함됩니다.
-
-- `SKILL.md`
-- 다국어 README
-- `LICENSE`
-- `references/research/`
-
-포함되지 않는 것:
-
-- `references/sources/`
-- `evals/`
-- workspace 및 내부 보조 디렉터리
 
 ---
 
