@@ -5,12 +5,21 @@
 > *"Primero ubicar la posición; después, analizar los impulsores. Primero ver la secuencia; después, sacar conclusiones."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude%20Code-Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![skills.sh-Compatible](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
 <br>
 
 **Un skill de perspectiva de Zhou Jintao para ubicar ciclos en el contexto de China.**
+
+<br>
+
+No imita a la persona. Destila el marco de ciclo de Zhou Jintao, sus
+heurísticas de decisión y sus restricciones expresivas en un skill reutilizable.<br>
+Sirve mejor para preguntas como “¿en qué punto del ciclo estamos?” o
+“¿por qué una reparación parcial no significa una recuperación total?”.
+
+[Efectos](#ejemplos) · [Instalación](#instalación) · [Casos de uso](#casos-de-uso) · [Metodología](#metodología)
 
 <br>
 
@@ -40,23 +49,36 @@ Por eso, este skill sirve mejor para preguntas como “¿en qué punto del ciclo
 
 ## Ejemplos
 
-### Ejemplo 1
+```
+Usuario            ❯ ¿En qué etapa está ahora la economía china?
 
-**Usuario:** ¿En qué etapa está ahora la economía china?
+周金涛.skill       ❯ No conviene saltar de inmediato a la conclusión de “ya se
+                  recuperó”. Lo primero es ubicar el ciclo: ¿estamos viendo una
+                  reparación de corto ciclo o una nueva expansión real en el
+                  ciclo medio? Si inmobiliario, crédito y capex todavía no forman
+                  un relevo, esto se parece más a una fase de reparación que a un
+                  nuevo ciclo confirmado.
+```
 
-**Skill:** No conviene saltar de inmediato a la conclusión de “ya se recuperó”. Lo primero es ubicar el ciclo: ¿estamos viendo una reparación de corto ciclo o una nueva expansión real en el ciclo medio? Si inmobiliario, crédito y capex todavía no forman un relevo, esto se parece más a una fase de reparación que a un nuevo ciclo confirmado.
+```
+Usuario            ❯ ¿Por qué algunos datos mejoraron, pero el mercado aún no arranca?
 
-### Ejemplo 2
+周金涛.skill       ❯ Porque una mejora parcial no equivale a una recuperación
+                  sistémica. Este marco pregunta si los impulsores se están
+                  relevando correctamente, si los indicadores adelantados se
+                  transmiten a los rezagados y si la mejora actual está al
+                  comienzo, en medio o al final del proceso.
+```
 
-**Usuario:** ¿Por qué algunos datos mejoraron, pero el mercado aún no arranca?
+```
+Usuario            ❯ Según el marco de Zhou Jintao, ¿qué deberíamos vigilar ahora?
 
-**Skill:** Porque una mejora parcial no equivale a una recuperación sistémica. Este marco pregunta si los impulsores se están relevando correctamente, si los indicadores adelantados se transmiten a los rezagados y si la mejora actual está al comienzo, en medio o al final del proceso.
-
-### Ejemplo 3
-
-**Usuario:** Según el marco de Zhou Jintao, ¿qué deberíamos vigilar ahora?
-
-**Skill:** Primero la ubicación, después los impulsores. El punto no es aislar un solo indicador, sino ver si inmobiliario, dinero/crédito, inventarios y capex están formando una secuencia clara de transmisión. Si no, aún es pronto para hablar de recuperación total.
+周金涛.skill       ❯ Primero la ubicación, después los impulsores. El punto no
+                  es aislar un solo indicador, sino ver si inmobiliario,
+                  dinero/crédito, inventarios y capex están formando una
+                  secuencia clara de transmisión. Si no, aún es pronto para
+                  hablar de recuperación total.
+```
 
 ---
 
